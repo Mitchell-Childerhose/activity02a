@@ -1,6 +1,6 @@
 class HelloWorld{
     public static void main(String[] args){
-        System.out.printf("Hello, Canada! QUANTUM\n");
+        System.out.printf("Hello, Canada! QUANTUM2\n");
     }
 }
 
